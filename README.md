@@ -1,3 +1,3 @@
 # curso_intensivo_python
 ## Estou aprendendo Python através deste livro:
-![](https://github.com/WagnerSF10/curso_intensivo_python/issues/2#issue-654422417)
+![image](https://user-images.githubusercontent.com/56406610/87102615-cbafd500-c228-11ea-9f61-db2cdce1f0e0.png)
