@@ -6,3 +6,4 @@
 ### Implementei foods.py e criei slices.py e friend_pizzas.py!
 #
 ## 14/07/2020 - Quase terminando o capítulo cinco.
+## 25/07/2020 - Iniciando o capítulo 6!!!
