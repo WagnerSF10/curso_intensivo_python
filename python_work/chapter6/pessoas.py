@@ -1,6 +1,6 @@
 person1 = {
     'nome': 'wagner',
-    'nascimento': '15/02/1982',
+    'nascimento': '15 de fev',
     'profissao': 'desenvolvedor',
     'pais': 'brasil',
 }
